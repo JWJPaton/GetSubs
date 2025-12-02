@@ -15,6 +15,8 @@ Claude responded to say
 > 4. Detects when subtitles change
 > 5. Outputs a timed text track (SRT/WebVTT format)
 
+The libraries used (Tesseract, Lucide React and React are published under Apache License 2.0, ISC License and MIT license which should all be compatible with the MIT license.
+
 ## Full OCR Integration:
 
 - Tesseract.js worker initialization with progress tracking
