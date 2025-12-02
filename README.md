@@ -46,9 +46,9 @@ The libraries used, Tesseract, Lucide React and React are published under Apache
 
 ## Installation:
 
-''' 
- npm install tesseract.js lucide-react
-'''
+```bash 
+npm install tesseract.js lucide-react
+```
 
 ## Usage Tips:
 - For UK Teletext subtitles: Set Y position to 80-85% with 15-20% height
